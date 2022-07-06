@@ -1,3 +1,3 @@
 LINK TO THE MODEL.
 
-https://app.netlify.com/sites/gentle-strudel-0d865d/overview
+https://gentle-strudel-0d865d.netlify.app/
